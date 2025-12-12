@@ -1,0 +1,9 @@
+{
+  "name": "Copy of Medicrew Universal Engine",
+  "description": "AI-driven medical support engine for Patients and Clinicians with distinct workflows and strict safety protocols.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
